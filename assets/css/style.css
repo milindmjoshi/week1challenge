@@ -8,6 +8,15 @@ body {
     background-color: #d9dcd6;
 }
 
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+
  
 
 .header {
@@ -52,16 +61,6 @@ body {
 .header  nav ul li {
     display: inline-block;
     margin-left: 25px;
-}
- 
-
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
 }
 
 /* Remove background images for accessibility */ 
