@@ -1,6 +1,6 @@
 # BootCamp Week 1 Challenge 
 ## Description
-This is the code for the week 1 bootcamp to modify given HTML and css for a website to make it 508 compliant for accessibility.
+This is the code for the week 1 bootcamp to modify given HTML and CSS for a website to make it 508 compliant for accessibility.
 
 
 ![Screenshot](https://milindmjoshi.github.io/week1challenge/assets/images/01-html-css-git-homework-demo.png)
