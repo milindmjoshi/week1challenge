@@ -4,6 +4,9 @@ This is the code for the week 1 bootcamp to modify given HTML and css for a webs
 
 
 ![Screenshot](https://milindmjoshi.github.io/week1challenge/assets/images/01-html-css-git-homework-demo.png)
+## Credits
+N/A
+
 ## Installation
 N/A
 
@@ -13,4 +16,7 @@ N/A
 
 ## Website Link
 https://milindmjoshi.github.io/week1challenge/
- 
+
+## License
+[MIT License](https://opensource.org/license/mit/)
+
